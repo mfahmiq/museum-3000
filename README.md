@@ -1,5 +1,9 @@
 # Museum of the Year 3000 — make.fun entry
 
+[![make.fun · u-donrulezz-museum-of-the-year-3000-b727a0bb](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
+[![rank](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb/mfahmiq/museum-3000/rank.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
+[![reward](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb/mfahmiq/museum-3000/reward.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
+
 One line: the museum label a museum in the year 3000 puts beside an ordinary
 object from today.
 
@@ -34,5 +38,3 @@ byte-identical to the entry, exiting non-zero on any failure.
 
 `u-donrulezz-museum-of-the-year-3000-b727a0bb` on make.fun — $2 prize pool,
 deadline 2026-11-26T20:25Z, free entry.
-
-[![make.fun](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb.svg)](https://make.fun/c/u-donrulezz-museum-of-the-year-3000-b727a0bb)
